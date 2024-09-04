@@ -20,29 +20,34 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
-<h1 align=center>📄PROJECTS</h1>
-### 1. [edgescheduler](https://github.com/EdgeScheduler-SSAFY)
-글로벌 회의 일정 잡기 서비스 프로젝트
 
-- **Technologies Used**: React, next.js, typescript, zustand, styled component
+<h1 align=center>📄PROJECTS</h1>
+
+### 1. [EdgeScheduler](https://github.com/EdgeScheduler-SSAFY)
+글로벌 회의 일정 관리 서비스 프로젝트
+
+- **Technologies Used**: React, Next.js, TypeScript, Zustand, Styled Components
 - [View Repository](https://github.com/EdgeScheduler-SSAFY)
 
 ---
 
-### 2. [Fit me](https://github.com/kimjungkwang1/fit-me)
-ai 피팅과 빅데이터 기반의 추천 쇼핑몰 프로젝트
+### 2. [Fit Me](https://github.com/kimjungkwang1/fit-me)
+AI 피팅과 빅데이터 기반 추천 쇼핑몰 프로젝트
 
-- **Technologies Used**: React, Redux, typescript, tailwind
+- **Technologies Used**: React, Redux, TypeScript, Tailwind CSS
 - [View Repository](https://github.com/kimjungkwang1/fit-me)
 
 ---
 
-### 3. [Secret zoo](https://github.com/Fiveguys-secretzoo/Secretzoo)
-webrtc 기반의 심리 보드게임 프로젝트
-- **Technologies Used**: React, Redux, socketio, tailwind
+### 3. [Secret Zoo](https://github.com/Fiveguys-secretzoo/Secretzoo)
+WebRTC 기반 심리 보드게임 프로젝트
+
+- **Technologies Used**: React, Redux, Socket.io, Tailwind CSS
 - [View Repository](https://github.com/Fiveguys-secretzoo/Secretzoo)
+
 <h1 align=center>💻ALGORITHM</h1>
 <div align=center>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=back0923)](https://solved.ac/back0923)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=back0923)](https://solved.ac/back0923)
+
 </div>
